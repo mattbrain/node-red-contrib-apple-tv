@@ -15,6 +15,6 @@
         }
     },
     "dependencies": {
-        "github:socalrds/node-appletv": "^1.0.10"
+        "node-appletv": "git+https://github.com/socalrds/node-appletv.git",
     }
 }
